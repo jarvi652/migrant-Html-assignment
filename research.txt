@@ -1,0 +1,15 @@
+<iframe> embeds content from another site
+<embed>allows you to embed descriptions such as pdf
+<object> allows you to embed description such as pdf
+<tract> works along with Webb VTT to provide subtititles to video content
+<i> helps italize words
+<b> makes letters bold
+<source> points you to content source
+<figure> provides containers for figures
+<figcaption> provides captions for figures
+<blockquote>paraphrases content from other websites
+<cite> provides citations
+<picture> gives different source elements for the browser to pick from
+<time> provide time stamps
+<address> provides space for contact details
+
