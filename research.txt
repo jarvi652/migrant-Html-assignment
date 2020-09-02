@@ -1,6 +1,6 @@
 <iframe> embeds content from another site
 <embed>allows you to embed descriptions such as pdf
-<object> allows you to embed description such as pdf
+<object> allows you to represent and external resource
 <tract> works along with Webb VTT to provide subtititles to video content
 <i> helps italize words
 <b> makes letters bold
@@ -12,4 +12,9 @@
 <picture> gives different source elements for the browser to pick from
 <time> provide time stamps
 <address> provides space for contact details
-
+<del> gives a range of elements that have been deleted from the site
+<input type= week> provides slots to input your week month etc
+<kbd> represents a span of inline text denoting textual user input from a keyboard
+<param> defines parameters for an <object>
+<q> indicates that the enclosed text is a short inline quotation
+<ruby> represents a ruby annotation. Ruby annotations are for showing pronunciation of East Asian characters
