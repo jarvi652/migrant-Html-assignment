@@ -1,2 +1,3 @@
 # migrant-Html-assignment
-contains a front end using only html
+front end using only html
+A purely Html form
